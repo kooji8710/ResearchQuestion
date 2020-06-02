@@ -1,1 +1,2 @@
-I am practicing how to use git repository.
+How is the "paratext" of the novel and movie Kim Ji-Young, Born in 1982 influnenced
+by the affordances offered by different platforms (Twitter, YouTube, and Clien platform)?
